@@ -14,7 +14,7 @@ $ npm install awesome-dev-jokes
 
 ```js
 
-const Joke = require('inspirational-quotes');
+const Joke = require('awesome-dev-jokes');
 
 console.log(Joke.getRandomJoke());
 
