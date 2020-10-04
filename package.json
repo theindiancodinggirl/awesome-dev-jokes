@@ -1,6 +1,6 @@
 {
   "name": "awesome-dev-jokes",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "\"Find the coolest dev jokes here\"",
   "main": "index.js",
   "scripts": {
