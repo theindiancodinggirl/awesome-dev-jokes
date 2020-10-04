@@ -22,10 +22,8 @@ console.log(Joke.getRandomJoke());
 
 ## Contributing
 
-[Add New Jokes](https://github.com/theindiancodinggirl/awesome-dev-jokes/issues/2)
+ [Add New Jokes](https://github.com/theindiancodinggirl/awesome-dev-jokes/issues/2)
 
- 
-> For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+ [MIT](https://choosealicense.com/licenses/mit/)
