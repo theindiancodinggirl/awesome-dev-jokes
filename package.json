@@ -21,5 +21,6 @@
   "bugs": {
     "url": "https://github.com/theindiancodinggirl/awesome-dev-jokes/issues"
   },
-  "homepage": "https://github.com/theindiancodinggirl/awesome-dev-jokes#readme"
+  "homepage": "https://github.com/theindiancodinggirl/awesome-dev-jokes#readme",
+  "dependencies": {}
 }
