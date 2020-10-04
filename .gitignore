@@ -1,0 +1,13 @@
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variables file
+.env
+
+# System Files
+.DS_Store
+
+package-lock.json
