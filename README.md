@@ -22,18 +22,7 @@ console.log(Joke.getRandomJoke());
 
 ## Contributing
 
--  [Fork this repository](https://help.github.com/articles/fork-a-repo/)
-
--  Clone the forked repository from your account
-
--  Add a devjoke to data/jokes.json file.
-
--  Commit and push.
-
--  [Create pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
-
--  Star this repository if you had fun :clap: 
-
+[Add New Jokes](https://github.com/theindiancodinggirl/awesome-dev-jokes/issues/2)
 
  
 > For major changes, please open an issue first to discuss what you would like to change.
