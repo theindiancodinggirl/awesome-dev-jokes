@@ -54,7 +54,7 @@
         "joke": "Why are keyboards always working so hard? Cause they have two shifts!"
     },
     {
-        "joke": "What did the proud React component say to its child? I've got to giv you props."
+        "joke": "What did the proud React component say to its child? I've got to give you props."
     },
     {
         "joke": "Lisp programmers don't make prank calls. They make FUNCALLs."
@@ -64,6 +64,9 @@
     },
     {
         "joke": "Hey officer! How did the hackers escape? No idea. They just ransomware."
+    },
+    {
+        "joke": "Why did the programmer quit his job? Because he didn't get arrays."
     },
     {
         "joke": "There are 10 types of people in this world, those who understand binary and those who dont."
