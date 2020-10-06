@@ -9,38 +9,42 @@
         "joke": "I would love to change the world, but they won’t give me the source code."
     },
     {
-    	  "joke": "Linux is only free if your time has no value."
+        "joke": "Debugging is like being the detective in a crime drama where you are also the murderer."
     },
     {
-    	  "joke": "There are only two kinds of programming languages: those people always bitch about and those nobody uses."
+        "joke": "Linux is only free if your time has no value."
     },
     {
-    	  "joke": "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning."
+        "joke": "There are only two kinds of programming languages: those people always bitch about and those nobody uses."
     },
     {
-    	  "joke": "If Java had true garbage collection, most programs would delete themselves upon execution."
+        "joke": "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning."
     },
     {
-    	  "joke": "C++ : Where friends have access to your private members."
+        "joke": "If Java had true garbage collection, most programs would delete themselves upon execution."
     },
     {
-    	  "joke": "Programming is like sex: one mistake and you’re providing support for a lifetime."
+        "joke": "C++ : Where friends have access to your private members."
     },
     {
-    	  "joke": "Perl – The only language that looks the same before and after RSA encryption."
+        "joke": "Programming is like sex: one mistake and you’re providing support for a lifetime."
     },
     {
-    	  "joke": "If debugging is the process of removing software bugs, then programming must be the process of putting them in."
+        "joke": "Perl – The only language that looks the same before and after RSA encryption."
     },
     {
-    	  "joke": "I don’t care if it works on your machine! We are not shipping your machine!"
+        "joke": "If debugging is the process of removing software bugs, then programming must be the process of putting them in."
     },
     {
-    	  "joke": "Some people, when confronted with a problem, think “I know, I’ll use regular expressions.” Now they have two problems."
+        "joke": "I don’t care if it works on your machine! We are not shipping your machine!"
     },
     {
-    	  "joke": "A user interface is like a joke. if you have to explain it, it's not that good"
+        "joke": "Some people, when confronted with a problem, think “I know, I’ll use regular expressions.” Now they have two problems."
     },
+    {
+        "joke": "A user interface is like a joke. if you have to explain it, it's not that good"
+    },
+    {
         "joke": "Why did the database administrator leave his wife? She had one-to-many relationships."
     },
     {
@@ -50,7 +54,7 @@
         "joke": "Why are keyboards always working so hard? Cause they have two shifts!"
     },
     {
-        "joke": "What did the proud React component say to its child? I've got to giv you props."
+        "joke": "What did the proud React component say to its child? I've got to give you props."
     },
     {
         "joke": "Lisp programmers don't make prank calls. They make FUNCALLs."
@@ -63,5 +67,8 @@
     },
     {
         "joke": "Why did the programmer quit his job? Because he didn't get arrays."
+    },
+    {
+        "joke": "There are 10 types of people in this world, those who understand binary and those who dont."
     }
 ]
